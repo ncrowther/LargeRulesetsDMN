@@ -2,11 +2,11 @@
 
 ## Description
 
-Example DMN showing how to organise and execute a large number of rules from a hierachical spreadsheet.
+Example DMN showing how to organise and execute a large number of rules.
 
-The rule spreadsheet is here [Rule spreasheet](docs/HierarchicalRules.xlsx)
+The requirements are derived from [Rule spreasheet](docs/HierarchicalRules.xlsx)
 
-The large decision table in R1.3.1.01 is generated from [Java Rule table generator](src/main/java/XMLGenerator.java)
+The large decision table in [R1.3.1.01.dmn](D:/A_Consultancy/techsales/2023/BelfiusInsurance/LargeRulesetsDMN/src/main/resources/org/acme/belfius/rules/R1.3/R1.3.1/R1.3.1.01.dmn) is generated from [Java Rule table generator](src/main/java/XMLGenerator.java)
 
 ## Top level DMN
 
@@ -17,7 +17,7 @@ The large decision table in R1.3.1.01 is generated from [Java Rule table generat
 
 * Open and view the project in VSC using the DMN plugin
 
-### Installing and Running
+### Running
 
 You will need:
 
